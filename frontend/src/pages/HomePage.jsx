@@ -300,7 +300,7 @@ export default function HomePage({ onNavigate, onOpenUploadModal, onOpenTestSuit
               Execution Sequence
             </span>
             <h3 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mt-1">
-              How DocuMind AI Operates
+              How DocuIntellect AI Operates
             </h3>
             <p className="text-xs sm:text-sm text-slate-500 mt-2">
               From raw uploaded document to verified structured report in four systematic phases.
@@ -365,7 +365,7 @@ export default function HomePage({ onNavigate, onOpenUploadModal, onOpenTestSuit
       <section className="py-16 bg-gradient-to-br from-slate-900 via-indigo-950 to-slate-900 text-white relative overflow-hidden">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 space-y-6">
           <span className="text-xs font-bold uppercase tracking-widest text-blue-400">
-            DocuMind AI &bull; Intelligent Document Intelligence &amp; Reporting
+            DocuIntellect AI &bull; Intelligent Document Intelligence &amp; Reporting
           </span>
           <h3 className="text-2xl sm:text-4xl font-extrabold text-white tracking-tight">
             Ready to Analyze Your Documents?
@@ -392,7 +392,7 @@ export default function HomePage({ onNavigate, onOpenUploadModal, onOpenTestSuit
           </div>
 
           <div className="pt-8 border-t border-slate-800 text-xs text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-2">
-            <span>© 2026 DocuMind AI. All rights reserved.</span>
+            <span>© 2026 DocuIntellect AI. All rights reserved.</span>
             <div className="flex items-center space-x-4">
               <span>100% Local &amp; Private</span>
               <span>&bull;</span>
