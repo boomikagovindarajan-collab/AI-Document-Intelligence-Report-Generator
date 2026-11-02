@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.log
+venv/
+.venv/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Database
+backend/instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded documents and generated reports
+backend/uploads/*
+backend/generated_reports/*
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Private project reference documents
+reference/
